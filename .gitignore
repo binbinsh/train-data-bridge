@@ -1,0 +1,9 @@
+.DS_Store
+uv.lock
+.env
+.venv/
+dist/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+unit_test.json

@@ -1,0 +1,6 @@
+[submodule "externals/webdataset"]
+	path = externals/webdataset
+	url = https://github.com/webdataset/webdataset
+[submodule "externals/litdata"]
+	path = externals/litdata
+	url = https://github.com/Lightning-AI/litdata
